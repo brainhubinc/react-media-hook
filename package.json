@@ -18,8 +18,20 @@
         "react"
       ],
       "limit": "442 B",
-      "import": "{ useMedia }",
-      "path": "./index.js"
+      "name": "useMedia",
+      "import": {
+        "./index.js": "{ useMedia }"
+      }
+    },
+    {
+      "ignore": [
+        "react"
+      ],
+      "limit": "442 B",
+      "name": "useMediaPredicate",
+      "import": {
+        "./index.js": "{ useMediaPredicate }"
+      }
     }
   ],
   "eslintConfig": {
