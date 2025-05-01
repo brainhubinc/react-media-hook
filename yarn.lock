@@ -1003,6 +1003,11 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
+"@brainhubinc/eslint-config@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@brainhubinc/eslint-config/-/eslint-config-0.0.1.tgz#647b0858f7167ad3ff34aee878a5f3225815f11a"
+  integrity sha512-G4RkXkaj5pQGzRdAQS3CuJvvXQ3Ad/7d8B+uU7765drrooE839javBCv1aVEAQWPFQbczrKqe6qYUjNGFR4wiQ==
+
 "@iarna/toml@^2.2.0":
   version "2.2.5"
   resolved "https://registry.yarnpkg.com/@iarna/toml/-/toml-2.2.5.tgz#b32366c89b43c6f8cefbdefac778b9c828e3ba8c"
@@ -3106,11 +3111,6 @@ escodegen@~1.9.0:
     optionator "^0.8.1"
   optionalDependencies:
     source-map "~0.6.1"
-
-eslint-config-lessmess@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-lessmess/-/eslint-config-lessmess-0.0.1.tgz#5cac11d60ae4a3ca00f9bbed1b1a66d7790b574f"
-  integrity sha512-AAXzpaxszdxh4muOZHseKgU0x8o8mVuzUHWAeLWJZWhn4r9jXdv1nOzQRyyU5QLjSawrzoXsi0wRQ2Q5V6sZKw==
 
 eslint-config-standard@^12.0.0:
   version "12.0.0"
